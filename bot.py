@@ -33,7 +33,7 @@ def start(update, context):
 
 
 def help_msg(update, context):
-    update.message.reply_text("Send Any instagram users username(without @) or their profile url to get their profile pricture ")
+    update.message.reply_text("Send Any instagram users username(without @) or their profile url to get their profile pricture Okay")
 
 
 def contact(update, context):
